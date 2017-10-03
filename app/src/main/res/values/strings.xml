@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationManager</string>
+    <string name="coordinates">Coordinates:</string>
+    <string name="request_location">Request Location</string>
+</resources>
